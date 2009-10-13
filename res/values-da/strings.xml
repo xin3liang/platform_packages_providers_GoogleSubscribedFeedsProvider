@@ -30,7 +30,7 @@
 %1$s</xliff:g>"</string>
     <string name="sync_gmail" msgid="5806053858668452000">"Gmail"</string>
     <string name="sync_calendar" msgid="1796292773734071897">"Kalender"</string>
-    <string name="sync_contacts" msgid="2035690905925565660">"Kontakter"</string>
+    <string name="sync_contacts" msgid="2035690905925565660">"Kontakt."</string>
     <string name="sync_too_many_deletes_desc" msgid="699495654174066067">"Der er <xliff:g id="NUMBER_OF_DELETED_ITEMS">%1$d</xliff:g> slettede elementer for <xliff:g id="TYPE_OF_SYNC">%2$s</xliff:g>, konto <xliff:g id="ACCOUNT_NAME">%3$s</xliff:g>. Hvad ønsker du at gøre?"</string>
     <string name="sync_really_delete" msgid="5456355204562588976">"Slet elementerne."</string>
     <string name="sync_undo_deletes" msgid="8695514459839593307">"Fortryd sletningerne."</string>

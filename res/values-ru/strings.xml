@@ -19,7 +19,7 @@
     <string name="sync_settings" msgid="4549768061467147584">"Синхронизация данных"</string>
     <string name="sync_too_many_deletes" msgid="1621369057980827097">"Превышен предел удаления"</string>
     <string name="background_data" msgid="1103557117473896066">"Использовать фоновые данные"</string>
-    <string name="background_data_summary" msgid="4689952168187153486">"Разрешить использовать фоновую передачу данных"</string>
+    <string name="background_data_summary" msgid="4689952168187153486">"Разрешить фоновую передачу данных"</string>
     <string name="background_data_dialog_title" msgid="6303755495467986079">"Внимание"</string>
     <string name="background_data_dialog_message" msgid="2817489591533703840">"Отключение фоновых данных экономит энергию батареи и уменьшает использование данных. Некоторые приложения могут, тем не менее, использовать фоновую передачу данных."</string>
     <string name="sync_automatically" msgid="4694735102757960100">"Автосинхронизация"</string>

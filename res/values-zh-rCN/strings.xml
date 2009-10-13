@@ -21,7 +21,7 @@
     <string name="background_data" msgid="1103557117473896066">"背景数据"</string>
     <string name="background_data_summary" msgid="4689952168187153486">"启用背景数据"</string>
     <string name="background_data_dialog_title" msgid="6303755495467986079">"注意事项"</string>
-    <string name="background_data_dialog_message" msgid="2817489591533703840">"禁用背景数据可节省电量并可降低数据使用量。有些应用程序可能仍会使用背景数据连接。"</string>
+    <string name="background_data_dialog_message" msgid="2817489591533703840">"停用背景数据可节省电量以及降低数据使用量。有些应用程序可能仍会使用背景数据连接。"</string>
     <string name="sync_automatically" msgid="4694735102757960100">"自动同步"</string>
     <string name="sync_automatically_summary" msgid="6210073947698673774">"自动同步数据"</string>
     <string name="sync_menu_sync_now" msgid="5796024841315572404">"立即同步"</string>

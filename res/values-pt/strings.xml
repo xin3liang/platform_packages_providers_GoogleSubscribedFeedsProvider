@@ -22,7 +22,7 @@
     <string name="background_data_summary" msgid="4689952168187153486">"Ativar o uso de dados de segundo plano"</string>
     <string name="background_data_dialog_title" msgid="6303755495467986079">"Atenção"</string>
     <string name="background_data_dialog_message" msgid="2817489591533703840">"A desativação dos dados de segundo plano economiza a bateria e diminui o uso dos dados. Alguns aplicativos ainda podem usar a conexão de dados de segundo plano."</string>
-    <string name="sync_automatically" msgid="4694735102757960100">"Sincronização automática"</string>
+    <string name="sync_automatically" msgid="4694735102757960100">"Sinc. automática"</string>
     <string name="sync_automatically_summary" msgid="6210073947698673774">"Sincronizar dados automaticamente"</string>
     <string name="sync_menu_sync_now" msgid="5796024841315572404">"Sincronizar agora"</string>
     <string name="sync_menu_sync_cancel" msgid="1005480041232010062">"Cancelar a sincronização"</string>
